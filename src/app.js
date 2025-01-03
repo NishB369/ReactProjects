@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from "react-dom/client"
 import Accordion from './Accordion/Accordion'
 import RandomBgClrGenerator from './RandomBgClrGenerator/RandomBgClrGenerator'
-import StarRating from './'
+import StarRating from './StarRating/StarRating'
 
 const App = () => {
   return (
